@@ -1,3 +1,3 @@
 # virtual-keyboard
 a virtual keyboard action with javascript
-Link: https://github.com/lilphemy/virtual-keyboard/index.html
+Link: https://lilphemy.github.io/virtual-keyboard/index.html
