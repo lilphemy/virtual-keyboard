@@ -4,6 +4,12 @@ body {
     font-family: Times new roman;
     color:cornflowerblue;
 }
+
+.use--keyboard {
+    width: 80%;
+    border: 2px solid tomato;
+    
+}
 .keyboard {
     position: fixed;
     text-align: center;
